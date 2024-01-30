@@ -1,4 +1,4 @@
-Python Projevt using:
+Python Project using:
 - Selenium on bet365.com
 - Telegram API to send mensages
 - Pandas
